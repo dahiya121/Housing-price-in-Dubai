@@ -43,12 +43,6 @@ This dashboard is ideal for:
 
 ---
 
-## 📥 How to Use
-
-1. Download the `.pbix` file (Power BI Dashboard)
-2. Open in Power BI Desktop
-3. Use left-side filters (Neighborhood) and interact with the charts
-4. Explore the decomposition tree to drill into specifics
 
 
 
